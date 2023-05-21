@@ -2,7 +2,7 @@
 Arduino and Python code. 3D .stl files and design. 
 
 
-The SafeCrackingBruteForceChunks.ino file is the Arduino code. 
+The SafeCrackingBruteForceChunks.ino file is the Arduino (C++) code. 
 
 Here are the hardware requirements:
     Servo (5v): 
